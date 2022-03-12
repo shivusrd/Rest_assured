@@ -30,7 +30,7 @@ public class Test01_GET
 	
 	{
 		RestAssured.given().get("https://reqres.in/api/users?page=2").then().statusCode(200).log().all();
-		
+		System.out.println("TEst");
 		
 	}
 	
