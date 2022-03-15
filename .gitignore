@@ -1,1 +1,16 @@
 /target/
+.classpath
+.settings/org.eclipse.jdt.core.prefs
+target/classes/META-INF/maven/RestAssured_practice/RestAssured_practice/pom.properties
+target/test-classes/extent/ExtentReporterNG.class
+target/test-classes/tests/Test01_GET.class
+test-output/Default suite/Default test.html
+test-output/Default suite/Default test.xml
+test-output/emailable-report.html
+test-output/index.html
+test-output/junitreports/TEST-tests.Test02_Get.xml
+test-output/old/Default suite/classes.html
+test-output/old/Default suite/methods-alphabetical.html
+test-output/old/Default suite/methods.html
+test-output/old/Default suite/testng.xml.html
+test-output/testng-results.xml
