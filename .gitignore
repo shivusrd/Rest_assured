@@ -14,3 +14,21 @@ test-output/old/Default suite/methods-alphabetical.html
 test-output/old/Default suite/methods.html
 test-output/old/Default suite/testng.xml.html
 test-output/testng-results.xml
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/surefire-reports/emailable-report.html
+target/surefire-reports/ExtentReportsTestNG.html
+target/surefire-reports/index.html
+target/surefire-reports/junitreports/TEST-tests.Test01_GET.xml
+target/surefire-reports/junitreports/TEST-tests.Test02_Get.xml
+target/surefire-reports/old/index.html
+target/surefire-reports/old/Suite/classes.html
+target/surefire-reports/old/Suite/methods-alphabetical.html
+target/surefire-reports/old/Suite/methods.html
+target/surefire-reports/old/Suite/toc.html
+target/surefire-reports/Suite/Test.html
+target/surefire-reports/Suite/Test.xml
+target/surefire-reports/TEST-TestSuite.xml
+target/surefire-reports/testng-results.xml
+target/surefire-reports/TestSuite.txt
+target/test-classes/extent/ExtentReporterNG.class
+target/test-classes/tests/Test01_GET.class
