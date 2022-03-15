@@ -9,6 +9,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="tests.Test01_GET"/>
+      <class name="tests.Test02_Get"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
