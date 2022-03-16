@@ -3,6 +3,7 @@
   <reporter-output>
   </reporter-output>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <suite started-at="2022-03-15T08:37:04 IST" name="Suite" finished-at="2022-03-15T08:37:10 IST" duration-ms="5992">
     <groups>
     </groups>
@@ -19,36 +20,47 @@
         <test-method signature="test03()[pri:0, instance:tests.Test01_GET@16e7dcfd]" started-at="2022-03-15T08:37:07 IST" name="test03" finished-at="2022-03-15T08:37:09 IST" duration-ms="1994" status="PASS">
 =======
   <suite started-at="2022-03-16T13:04:48 IST" name="Suite" finished-at="2022-03-16T13:04:55 IST" duration-ms="6744">
+=======
+  <suite started-at="2022-03-16T16:43:54 IST" name="Suite" finished-at="2022-03-16T16:44:02 IST" duration-ms="8072">
+>>>>>>> 54cf00c1fc478f4f52970ce30904b7163587f610
     <groups>
     </groups>
-    <test started-at="2022-03-16T13:04:48 IST" name="Test" finished-at="2022-03-16T13:04:55 IST" duration-ms="6744">
+    <test started-at="2022-03-16T16:43:54 IST" name="Test" finished-at="2022-03-16T16:44:02 IST" duration-ms="8072">
       <class name="tests.Test02_POST">
-        <test-method signature="test01_post()[pri:0, instance:tests.Test02_POST@29e495ff]" started-at="2022-03-16T13:04:54 IST" name="test01_post" finished-at="2022-03-16T13:04:55 IST" duration-ms="778" status="PASS">
+        <test-method signature="test01_post()[pri:0, instance:tests.Test02_POST@2df9b86]" started-at="2022-03-16T16:44:01 IST" name="test01_post" finished-at="2022-03-16T16:44:02 IST" duration-ms="840" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test01_post -->
       </class> <!-- tests.Test02_POST -->
       <class name="tests.Test01_GET">
-        <test-method signature="test01()[pri:0, instance:tests.Test01_GET@59af0466]" started-at="2022-03-16T13:04:48 IST" name="test01" finished-at="2022-03-16T13:04:51 IST" duration-ms="2732" status="PASS">
+        <test-method signature="test01()[pri:0, instance:tests.Test01_GET@49912c99]" started-at="2022-03-16T16:43:54 IST" name="test01" finished-at="2022-03-16T16:43:58 IST" duration-ms="3476" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test01 -->
-        <test-method signature="test02()[pri:0, instance:tests.Test01_GET@59af0466]" started-at="2022-03-16T13:04:51 IST" name="test02" finished-at="2022-03-16T13:04:51 IST" duration-ms="436" status="PASS">
+        <test-method signature="test02()[pri:0, instance:tests.Test01_GET@49912c99]" started-at="2022-03-16T16:43:58 IST" name="test02" finished-at="2022-03-16T16:43:58 IST" duration-ms="515" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test02 -->
+<<<<<<< HEAD
         <test-method signature="test03()[pri:0, instance:tests.Test01_GET@59af0466]" started-at="2022-03-16T13:04:51 IST" name="test03" finished-at="2022-03-16T13:04:53 IST" duration-ms="1593" status="PASS">
 >>>>>>> ecf88fe52db23be375507939a625a7272a7ffcce
+=======
+        <test-method signature="test03()[pri:0, instance:tests.Test01_GET@49912c99]" started-at="2022-03-16T16:43:58 IST" name="test03" finished-at="2022-03-16T16:44:00 IST" duration-ms="1764" status="PASS">
+>>>>>>> 54cf00c1fc478f4f52970ce30904b7163587f610
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test03 -->
       </class> <!-- tests.Test01_GET -->
       <class name="tests.Test02_Get">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <test-method signature="test_01()[pri:0, instance:tests.Test02_Get@65d6b83b]" started-at="2022-03-15T08:37:09 IST" name="test_01" finished-at="2022-03-15T08:37:10 IST" duration-ms="1155" status="PASS">
 =======
         <test-method signature="test_01()[pri:0, instance:tests.Test02_Get@2f8dad04]" started-at="2022-03-16T13:04:53 IST" name="test_01" finished-at="2022-03-16T13:04:54 IST" duration-ms="1154" status="PASS">
 >>>>>>> ecf88fe52db23be375507939a625a7272a7ffcce
+=======
+        <test-method signature="test_01()[pri:0, instance:tests.Test02_Get@793be5ca]" started-at="2022-03-16T16:44:00 IST" name="test_01" finished-at="2022-03-16T16:44:01 IST" duration-ms="1406" status="PASS">
+>>>>>>> 54cf00c1fc478f4f52970ce30904b7163587f610
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_01 -->
