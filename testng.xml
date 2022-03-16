@@ -10,6 +10,7 @@
     <classes>
       <class name="tests.Test01_GET"/>
       <class name="tests.Test02_Get"/>
+      <class name="tests.Test02_POST"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

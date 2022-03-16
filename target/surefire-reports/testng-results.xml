@@ -1,27 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-15T08:36:18 IST" name="Suite" finished-at="2022-03-15T08:36:24 IST" duration-ms="5873">
+  <suite started-at="2022-03-16T13:04:48 IST" name="Suite" finished-at="2022-03-16T13:04:55 IST" duration-ms="6744">
     <groups>
     </groups>
-    <test started-at="2022-03-15T08:36:18 IST" name="Test" finished-at="2022-03-15T08:36:24 IST" duration-ms="5873">
+    <test started-at="2022-03-16T13:04:48 IST" name="Test" finished-at="2022-03-16T13:04:55 IST" duration-ms="6744">
+      <class name="tests.Test02_POST">
+        <test-method signature="test01_post()[pri:0, instance:tests.Test02_POST@29e495ff]" started-at="2022-03-16T13:04:54 IST" name="test01_post" finished-at="2022-03-16T13:04:55 IST" duration-ms="778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01_post -->
+      </class> <!-- tests.Test02_POST -->
       <class name="tests.Test01_GET">
-        <test-method signature="test01()[pri:0, instance:tests.Test01_GET@16e7dcfd]" started-at="2022-03-15T08:36:18 IST" name="test01" finished-at="2022-03-15T08:36:20 IST" duration-ms="2096" status="PASS">
+        <test-method signature="test01()[pri:0, instance:tests.Test01_GET@59af0466]" started-at="2022-03-16T13:04:48 IST" name="test01" finished-at="2022-03-16T13:04:51 IST" duration-ms="2732" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test01 -->
-        <test-method signature="test02()[pri:0, instance:tests.Test01_GET@16e7dcfd]" started-at="2022-03-15T08:36:20 IST" name="test02" finished-at="2022-03-15T08:36:21 IST" duration-ms="710" status="PASS">
+        <test-method signature="test02()[pri:0, instance:tests.Test01_GET@59af0466]" started-at="2022-03-16T13:04:51 IST" name="test02" finished-at="2022-03-16T13:04:51 IST" duration-ms="436" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test02 -->
-        <test-method signature="test03()[pri:0, instance:tests.Test01_GET@16e7dcfd]" started-at="2022-03-15T08:36:21 IST" name="test03" finished-at="2022-03-15T08:36:23 IST" duration-ms="1985" status="PASS">
+        <test-method signature="test03()[pri:0, instance:tests.Test01_GET@59af0466]" started-at="2022-03-16T13:04:51 IST" name="test03" finished-at="2022-03-16T13:04:53 IST" duration-ms="1593" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test03 -->
       </class> <!-- tests.Test01_GET -->
       <class name="tests.Test02_Get">
-        <test-method signature="test_01()[pri:0, instance:tests.Test02_Get@65d6b83b]" started-at="2022-03-15T08:36:23 IST" name="test_01" finished-at="2022-03-15T08:36:24 IST" duration-ms="1059" status="PASS">
+        <test-method signature="test_01()[pri:0, instance:tests.Test02_Get@2f8dad04]" started-at="2022-03-16T13:04:53 IST" name="test_01" finished-at="2022-03-16T13:04:54 IST" duration-ms="1154" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_01 -->
