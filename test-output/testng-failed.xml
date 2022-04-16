@@ -5,7 +5,7 @@
     <classes>
       <class name="tests.Test02_POST">
         <methods>
-          <include name="test01_post"/>
+          <include name="test04_patch"/>
         </methods>
       </class> <!-- tests.Test02_POST -->
     </classes>

@@ -95,7 +95,11 @@ public class Test02_POST
 
 
 			
-			when().delete("https://reqres.in/api/users/2").then().statusCode(204).log().all();
+			when().delete("https://reqres.in/api/users/2").
+			then().
+			statusCode(204).
+			log().
+			all();
 
 		}
 		

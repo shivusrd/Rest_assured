@@ -29,7 +29,11 @@ public class Test01_GET
 	void test02() 
 	
 	{
-		RestAssured.given().get("https://reqres.in/api/users?page=2").then().statusCode(200).log().all();
+		RestAssured.given().
+		get("https://reqres.in/api/users?page=2").
+		then().
+		statusCode(200).
+		log().all();
 		System.out.println("TEst");
 		
 	}
@@ -38,7 +42,11 @@ public class Test01_GET
 	void test03()
 	{
 		
-		RestAssured.given().get("https://httpbin.org/").then().statusCode(200).log().all();
+		RestAssured.given().
+		get("https://httpbin.org/").
+		then().
+		statusCode(200).
+		log().all();
 		
 	}
 	
