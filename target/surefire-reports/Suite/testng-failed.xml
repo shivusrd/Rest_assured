@@ -11,6 +11,21 @@
           <include name="test_01"/>
         </methods>
       </class> <!-- tests.Test02_Get -->
+      <class name="tests.Test01_GET">
+        <methods>
+          <include name="test02"/>
+          <include name="test01"/>
+          <include name="test03"/>
+        </methods>
+      </class> <!-- tests.Test01_GET -->
+      <class name="tests.Test02_POST">
+        <methods>
+          <include name="test02_put"/>
+          <include name="test01_post"/>
+          <include name="test03_patch"/>
+          <include name="test04_patch"/>
+        </methods>
+      </class> <!-- tests.Test02_POST -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
