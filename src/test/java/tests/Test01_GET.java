@@ -1,4 +1,6 @@
 	package tests;
+import java.net.HttpURLConnection;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -21,7 +23,7 @@ public class Test01_GET
 		System.out.println(resp.getTime());
 		
 		int statuscode = resp.getStatusCode();
-		Assert.assertEquals(statuscode, 200);
+		Assert.assertEquals(statuscode, HttpURLConnection.HTTP_OK);
 	}
 
 	
